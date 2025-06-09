@@ -31,12 +31,14 @@ The program creates a 3×3 grid of clickable cells, each managed by a `Cell` cla
 ---
 
 ## Project Structure
+```plaintext
 AssignmentOne_Tic_Tac_Toe/
-├── main.py              # Game logic and GUI implementation
-└── image/               # Provided image assets
-  ├── empty.gif
-  ├── x.gif
-  └── o.gif
+├── main.py         # Game logic and GUI implementation
+└── image/          # Provided image assets
+    ├── empty.gif
+    ├── x.gif
+    └── o.gif
+```
 ---
 
 ## Gameplay Logic
