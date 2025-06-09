@@ -55,7 +55,7 @@ AssignmentOne_Tic_Tac_Toe/
 ---
 
 ## Demo
-https://github.com/user-attachments/assets/1d174383-999b-463a-85dc-d09c57968ccf
+![AssignmentOne](https://github.com/user-attachments/assets/ed2fc975-ce97-467e-a4c1-aa79fb2f38e5)
 ---
 
 ## Assignment Criteria Overview
