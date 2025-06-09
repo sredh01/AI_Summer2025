@@ -1,3 +1,10 @@
+# -----------------------------------------------------------
+# S. Redhouse
+# AI Summer 2025 - Assignment One: Tic Tac Toe
+# Description: A simple GUI-based Tic Tac Toe game using Tkinter.
+# The game supports two-player input, win detection, and Tie handling.
+# -----------------------------------------------------------
+
 import os, sys
 import tkinter as tk
 from tkinter import messagebox
